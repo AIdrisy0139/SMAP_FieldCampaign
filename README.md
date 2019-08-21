@@ -2,6 +2,9 @@
 Code for obtaining and visualizing Radiometer Data obtained in Harvard Forest as part of a NASA Field Campaign to verify SMAP's readings. Done at NOAA-CREST at CCNY
 
 # How to use
+- Install WinSCP for passive FTP on windows
+- Install Anaconda and make a conda enviorment with the imported librarys used by electric.py
+- Use the scripts in /Sync to download the data (WinSCP)
 - Put the input files into Visualziation/input_files
 - Run electric.py
 
