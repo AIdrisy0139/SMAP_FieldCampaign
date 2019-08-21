@@ -1,0 +1,6 @@
+open ftp://caribou_crest:CaribouCrest@ftp.drivehq.com/
+dir
+cd smapvex
+dir
+synchronize remote C:\Users\echoe\Desktop\tmp\data\ .
+exit
